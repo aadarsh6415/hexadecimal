@@ -1,0 +1,14 @@
+h1{
+    color:#AD2C61
+    
+}
+*{
+    border:solid;
+    background-color: #ABCD24;
+    
+}
+.games{
+     display:flex;
+     flex-direction:row;
+     justify-content:space-evenly;
+}
